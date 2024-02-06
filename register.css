@@ -1,0 +1,19 @@
+.backkground
+{
+    background-color: #023e62;
+}
+.inp_st
+{
+    margin-top:3%;
+    width:100%;
+    border:0;
+    border-bottom:1px solid gray;
+}
+#btnn
+{
+    background-color: #d4ad2a;
+    width:64%;
+    margin-left:10%;
+    height: 60px;
+    color:white;
+}

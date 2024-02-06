@@ -1,0 +1,93 @@
+body
+{
+    margin: auto;
+    padding: 0;
+}
+.aa
+{
+ 
+    height: 100px;
+}
+.first_top
+{
+    background-color:#023e62 ;
+    height: 610px;
+    font-weight:bold;
+    font-size:46px;
+    color:white;
+    padding-top: 14%;
+   
+  
+}
+#btn_register
+{
+    background-color:#023e62;
+    font-size: 25px;
+    color: white;
+    height: 50px;
+    border:2px solid #d4ad2a;
+    border-radius: 8px;
+    width:160px; 
+
+
+}
+
+.left
+{
+    background-color:#d4ad2a ;
+    height: 120px;
+    padding-top:35px;
+    color:white;
+}
+.mid
+{
+    background-color:#04334f ;
+    height: 120px;
+    padding-top:20px;
+    color:white;
+    font-size: 20px;
+}
+.right
+{
+    background-color:#d4ad2a;
+    height: 120px;
+    padding-top:20px;
+    color:white;
+    font-size: 20px;
+}
+.head_pargraph
+{
+    color: #04334f;
+    font-size: 22px;
+    font-weight:bold;
+    margin-top:8px;
+}
+hr
+{
+   
+    height: 20px;
+    width: 25%;
+    border:0;     
+ border:5px solid #d4ad2a;
+    margin-right: 70%;
+}
+.inside_paragraph
+{
+    font-size:16px;
+    color: gray;
+}
+.iconn
+{
+    color: #d4ad2a;
+    font-size:20px;
+   
+}
+.team_img
+{
+    border-radius:80px;
+}
+.test
+{
+    background-color: white;
+    color: yellow;
+}
